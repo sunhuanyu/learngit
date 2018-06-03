@@ -1,5 +1,6 @@
 public class demo{
 	public void static main(String arg[]){
-		System.out.println("Hello World");
+		int x = 1;
+		System.out.println("Hello World"+x);
 		}
 }
